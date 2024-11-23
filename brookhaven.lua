@@ -44,4 +44,4 @@ ExtraSection:NewButton("Infinite Jump", "Salto infinito", function()
             game:GetService"Players".LocalPlayer.Character:FindFirstChildOfClass'Humanoid':ChangeState("Jumping")
         end
     end)
-end)```
+end)
